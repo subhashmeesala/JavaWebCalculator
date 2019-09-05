@@ -4,6 +4,7 @@
 
 .metadata
 bin/
+/home/subbu/JavaWebCalculator/apache-tomcat-7.0.94
 tmp/
 *.tmp
 *.bak
