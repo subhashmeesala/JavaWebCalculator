@@ -6,7 +6,7 @@ import javax.servlet.http.*;
 
 public class Calculator extends HttpServlet
 {
-#	public long addFucn(long first, long second){
+	public long addFucn(long first, long second){
 		
 		return first+second;
 	}
