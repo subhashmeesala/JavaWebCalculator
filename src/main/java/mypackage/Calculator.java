@@ -16,7 +16,7 @@ public class Calculator extends HttpServlet
 		return second-first;
 	}
 	
-	public long divfucn(long first, long second){
+	public long divFucn(long first, long second){
 		
 		return first*second;
 	}
